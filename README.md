@@ -54,9 +54,9 @@ Let's Connect 🚀 If you're up for interesting projects or collaborations, feel
 
 ### My Github Stats 📊
 
-|<img src="https://github-readme-stats.vercel.app/api?username=ramith-kulal&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramith-kulal&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Udaygowda-123&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaygowda-123&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
 
 
 
-![](https://komarev.com/ghpvc/?username=ramith-kulal)
+![](https://komarev.com/ghpvc/?username=Udaygowda-123)
